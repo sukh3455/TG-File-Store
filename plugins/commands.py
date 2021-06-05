@@ -30,8 +30,8 @@ async def start(c, m, cb=False):
 💡 ** I am Telegram File Store Bot**
 
 `You can store your Telegram Media for permanent Link!`
-
-
+**👲 Maintained By:** {owner.mention(style='md')}
+"""
 
 
 
